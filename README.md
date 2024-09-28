@@ -9,4 +9,4 @@ This repository contains a detailed guide on optimizing SQL queries using advanc
 
 ## Blog Content
 
-Check out the full blog in [SQL_Optimization_Blog.md]([(https://medium.com/@mohamedaasir1992/enhancing-your-sql-skills-with-complex-queries-and-optimization-techniques-807022d987d3)]).
+Check out the full blog in [SQL_Optimization_Blog.md]([https://medium.com/@mohamedaasir1992/enhancing-your-sql-skills-with-complex-queries-and-optimization-techniques-807022d987d3]).
